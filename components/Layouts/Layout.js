@@ -28,7 +28,7 @@ const Layout = (props) => {
                     crossOrigin="anonymous"
                 ></link>
 
-                <title>WERCHOW - S.G.I.</title>
+                <title>AGENDA</title>
             </Head>
 
             {/* <Navbar /> */}
